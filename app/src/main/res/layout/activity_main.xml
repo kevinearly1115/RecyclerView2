@@ -18,4 +18,4 @@
 
     android:scrollbars="vertical"
 
-    tools:context="id.sch.smktelkom_mlg.learn.recyclerview1.MainActivity" />
+    tools:context="id.sch.smktelkom_mlg.learn.recyclerview2.MainActivity" />
