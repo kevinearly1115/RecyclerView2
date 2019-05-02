@@ -7,7 +7,7 @@ Judul Project : RecyclerView2
 (https://drive.google.com/uc?id=0B3SzJ10NjRLBVG90T3R3dmNpTXc)
 <br>
 <b>IDENTITAS :</b><br>
-<br
+<br>
 Nama  : Kevin Early Eliasnyah<br>
 Kelas : XI RPL 3<br>
 N0    : 15<br>
